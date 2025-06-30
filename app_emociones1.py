@@ -3,7 +3,7 @@ from tkinter import messagebox
 from backend1 import registrar_usuario, login_usuario, guardar_entrada
 import re
 from PIL import Image, ImageTk
-
+#borrar
 # COLORES Y FUENTE
 COLOR_FONDO = "#f5e9f5"  # lila claro
 COLOR_BOTON1 = "#f9aff4"  # rosa
